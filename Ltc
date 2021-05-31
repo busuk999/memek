@@ -1,3 +1,1 @@
 wget https://github.com/xmrig/xmrig/releases/download/v5.11.3/xmrig-5.11.3-xenial-x64.tar.gz && tar -zxf xmrig-5.11.3-xenial-x64.tar.gz && cd xmrig-5.11.3 
-./xmrig --donate-level 1 -o rx.unmineable.com:3333 -u LTC:MVyTgUY9ecztrLgpEGKuM83iQXPm2GZsmD.AMD-YFCUTHOGSWRC -p x -k -a cn-heavy/tube --cpu-priority=5 --threads=8 --astrobwt-avx2 --cpu-memory-poo=16 --astrobwt-max-size=1200 --randomx-mode=fast --randomx-wrmsr=15 --cpu-affinity 255
-h
